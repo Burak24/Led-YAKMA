@@ -1,0 +1,61 @@
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.dll
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Imaging.dll
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.dll
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\webcam.exe
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\webcam.vshost.exe
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.dll
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\webcam.pdb
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Ahmet TÜRK\Desktop\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsForms.exe.config
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsForms.exe.config
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsForms.exe
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsForms.pdb
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.dll
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Imaging.dll
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.dll
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.dll
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\webcam.pdb
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsForms.exe
+C:\Users\Ahmet TÜRK\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsForms.pdb
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsForms.exe.config
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsForms.exe
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsForms.pdb
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.dll
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.xml
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Imaging.xml
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.xml
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\webcam.pdb
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AForge.Math.xml
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication.csproj.CopyComplete
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsForms.exe
+C:\Users\Burak\Desktop\burak kkk\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsForms.pdb
